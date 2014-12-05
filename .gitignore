@@ -1,0 +1,12 @@
+# Emacs files
+*~
+[#]*
+*[#]
+preview.html
+
+# Elm Files
+elm-stuff/
+elm.js
+
+# elm-doc files
+doc.json
